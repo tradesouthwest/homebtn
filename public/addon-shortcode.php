@@ -21,7 +21,7 @@ function homebtn_display_button_afterpost($content ) {
     
         echo $content . '<div class="homebtnclearfix"></div>' . 
         '<div class="homebtn-section">
-        <p> ' . do_shortcode("[hmbt_redirect url='' sec='3']") . '</p>
+        <p> ' . do_shortcode("[hmbt_redirect url='' sec='9999']") . '</p>
         </div>';
 
         $output = ob_get_clean();
