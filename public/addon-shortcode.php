@@ -6,8 +6,8 @@
  * @uses do_shortcode( '[homebtn_postcount]' ).
  * + get_post_type, is_single
  **********************************************
- IMPORTANT! Uncomment add_action line 86 in
- homebtn.php file to use this file
+ copy all of this content into the homebtn-shortcode
+ file and ignore this file altogether.
  **********************************************
  */
 
