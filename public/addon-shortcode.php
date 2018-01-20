@@ -1,5 +1,7 @@
 <?php 
 /** 
+* This file replaces the Content of homebtn-shortcode.php
+*
  * @since ver 1.0.1 shortcode omitted
  * @uses do_shortcode( '[homebtn_postcount]' ).
  * + get_post_type, is_single
