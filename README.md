@@ -18,7 +18,7 @@ Plugin URI: http://themes.tradesouthwest.com/plugins/
 == Description ==
  
 == Features == 
-* Branding for your log in page.
+* Branding for your button colors.
  
 
 == Installation ==
